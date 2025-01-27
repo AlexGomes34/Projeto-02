@@ -1,0 +1,38 @@
+
+*
+h1{
+    text-align: center;
+    background-color: gold;
+    padding: 40px;
+    color: blue;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 600px;
+}
+h2{
+    background-color: gold;
+color: blue;
+padding: 20px;
+}
+ul{
+    background-color: wheat;
+    color: darkred;
+    font-size: larger;
+}
+li{
+    padding: 5px;
+}
+li:hover{
+    background-color: chocolate;
+}
+h3{
+    background-color: gold;
+    padding: 20px;
+    color: blue;
+    
+}
+h4{
+    text-align: center;
+}
